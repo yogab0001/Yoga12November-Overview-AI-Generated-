@@ -1,2 +1,3 @@
 # Yoga12November-Overview-AI-Generated-
 Overview (AI-Generated)
+I am a developer focused on blockchain technology and open-source development. Through GitHub, Yoga12November contributes to various projects related to infrastructure decentralization, including scripts for running Tesnet nodes, automation of digital asset management, as well as the development of tools for platforms such as Arch Linux and Debian. With a deep understanding of technologies such as Python, Go, npm, and Yarn, Yoga12November consistently develops and shares code that supports the global blockchain community. Yoga12November's GitHub profile reflects a commitment to innovation and collaboration in the crypto space.
